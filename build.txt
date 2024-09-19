@@ -1,0 +1,9 @@
+displayName = [c/00c9d4:L][c/00c2d4:u][c/00b7d4:n][c/000b0d4:a][c/00a6d4:r] [c/009fd4:V][c/0094d4:e][c/008dd4:i][c/0083d4:l][c/007bd4:穹][c/0071d4:月][c/006ad4:天][c/005fd4:紗][c/0058d4:繁體][c/004ed4:漢化][c/0047d4:B][c/003cd4:et][c/0035d4:a]
+author = 虞悖
+version = 1.3.3.5
+modReferences = Stellamod
+dllReferences = LunarVeilChinesePackPublicizerPart
+translationMod = true
+side = Client
+hideResources = true
+hideCode = true

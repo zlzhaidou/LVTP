@@ -1,0 +1,161 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{64EDB323-475E-4530-9A65-12B7948AD0F1}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>ConsoleApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>LVTC</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\FETCH_HEAD" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\fsmonitor-watchman.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-merge-commit.sample" />
+    <None Include=".git\hooks\pre-push.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\pre-receive.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\push-to-checkout.sample" />
+    <None Include=".git\hooks\sendemail-validate.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\index" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\main" />
+    <None Include=".git\logs\refs\remotes\origin\HEAD" />
+    <None Include=".git\logs\refs\remotes\origin\main" />
+    <None Include=".git\objects\53\a65a04932be52b58f10e09b5cae0a698cb145b" />
+    <None Include=".git\objects\6f\95a89843ecbc3bf826d347c59749730ca50111" />
+    <None Include=".git\objects\96\dec94d265e8bff3aad182c0b55493dc147a812" />
+    <None Include=".git\objects\c0\1df2931928b249909fce610e48235d496bf837" />
+    <None Include=".git\objects\d2\d701c47859ee464342fa8018d6a7383f01ec4c" />
+    <None Include=".git\objects\e9\1492d4e1b383ac0924ec4f202bc80087e931ea" />
+    <None Include=".git\objects\pack\pack-b9e4f85941db002454889742799e68a6e99074cc.idx" />
+    <None Include=".git\objects\pack\pack-b9e4f85941db002454889742799e68a6e99074cc.pack" />
+    <None Include=".git\objects\pack\pack-b9e4f85941db002454889742799e68a6e99074cc.rev" />
+    <None Include=".git\ORIG_HEAD" />
+    <None Include=".git\packed-refs" />
+    <None Include=".git\refs\heads\main" />
+    <None Include=".git\refs\remotes\origin\HEAD" />
+    <None Include=".git\refs\remotes\origin\main" />
+    <None Include=".git\refs\tags\v1.3.3.1" />
+    <None Include=".vs\LunarVeilChinesePack\DesignTimeBuild\.dtbcache.v2" />
+    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\45c897ab-9aff-4d38-96ad-4f62e7c081ef.vsidx" />
+    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\5e2a70b5-1b57-4a9a-b41d-f4e8b455782a.vsidx" />
+    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\977f3da9-87b4-47da-bc48-be1a1e47af05.vsidx" />
+    <None Include=".vs\LunarVeilChinesePack\FileContentIndex\e2ff5b16-ec19-4fda-b13a-34df2aa43f49.vsidx" />
+    <None Include=".vs\LunarVeilChinesePack\v17\.futdcache.v2" />
+    <None Include=".vs\LunarVeilChinesePack\v17\.suo" />
+    <None Include=".vs\LunarVeilChinesePack\v17\DocumentLayout.backup.json" />
+    <None Include=".vs\LunarVeilChinesePack\v17\DocumentLayout.json" />
+    <None Include=".vs\LVTC\v17\.suo" />
+    <None Include=".vs\LVTC\v17\DocumentLayout.backup.json" />
+    <None Include=".vs\LVTC\v17\DocumentLayout.json" />
+    <None Include=".vs\ProjectEvaluation\lunarveilchinesepack.metadata.v9.bin" />
+    <None Include=".vs\ProjectEvaluation\lunarveilchinesepack.projects.v9.bin" />
+    <None Include=".vs\ProjectEvaluation\lunarveilchinesepack.strings.v9.bin" />
+    <None Include="en-US.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Biomes.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Buffs.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Conditions.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Configs.LunarVeilConfig.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Currency.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Dialogue.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Items.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.NPCs.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Projectiles.hjson" />
+    <None Include="Localization\en-US\Mods.Stellamod.Tiles.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Biomes.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Buffs.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Conditions.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Configs.LunarVeilConfig.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Currency.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Dialogue.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Items.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.NPCs.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Projectiles.hjson" />
+    <None Include="Localization\zh-Hans\Mods.Stellamod.Tiles.hjson" />
+    <None Include="LVTC.csproj.bak" />
+    <None Include="Properties\launchSettings.json" />
+    <None Include="README.md" />
+    <None Include="zh-Hans.hjson" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="build.txt" />
+    <Content Include="description.txt" />
+    <Content Include="icon.png" />
+    <Content Include="icon_small.png" />
+    <Content Include="icon_workshop.png" />
+    <Content Include="lib\LunarVeilChinesePackPublicizerPart.dll" />
+    <Content Include="lib\Stellamod.dll" />
+    <Content Include="穹月1.6.1.1创意工坊描述文本.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BossChecklist\CheckilstLocalizer.cs" />
+    <Compile Include="Configs\ConfigLocalizer.cs" />
+    <Compile Include="Items\ArmorSetLocalizer.cs" />
+    <Compile Include="Items\ItemTooltipLocalizer.cs" />
+    <Compile Include="Items\MiscItemLocalizer.cs" />
+    <Compile Include="LVTC.cs" />
+    <Compile Include="Miscs\CurrencyLocalizer.cs" />
+    <Compile Include="Miscs\MiscLocalizer.cs" />
+    <Compile Include="NPCs\BestiaryLocalizer.cs" />
+    <Compile Include="NPCs\MiscNPCLocalizer.cs" />
+    <Compile Include="NPCs\TownNPCLocalizer.cs" />
+    <Compile Include="Players\MiscPlayerLocalizer.cs" />
+    <Compile Include="Projectiles\MiscProjectileLocalizer.cs" />
+    <Compile Include="Systems\BlockPublishInDebug.cs" />
+    <Compile Include="Systems\ForceLocalizeSystem.cs" />
+    <Compile Include="Tiles\MiscTileLocalizer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

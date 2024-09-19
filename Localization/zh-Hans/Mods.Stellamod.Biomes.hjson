@@ -1,0 +1,119 @@
+XixVillage: {
+	TownNPCDialogueName: 希克斯村
+	DisplayName: 希克斯村
+}
+
+VeriplantUndergroundBiome: {
+	TownNPCDialogueName: 地下殆綠之地
+	DisplayName: 地下殆綠之地
+}
+
+StarbloomBiome: {
+	TownNPCDialogueName: 星綻之地
+	DisplayName: 星綻之地
+}
+
+SeaTemple: {
+	TownNPCDialogueName: 淵海秘殿
+	DisplayName: 淵海秘殿
+}
+
+NaxtrinTemple: {
+	TownNPCDialogueName: 納克特林聖殿
+	DisplayName: 納克特林聖殿
+}
+
+MorrowUndergroundBiome: {
+	TownNPCDialogueName: 地下幽曦之地
+	DisplayName: 地下幽曦之地
+}
+
+MarrowSurfaceBiome: {
+	TownNPCDialogueName: 地表幽曦之地
+	DisplayName: 地表幽曦之地
+}
+
+GovheilCastle: {
+	TownNPCDialogueName: 歌維赫堡
+	DisplayName: 歌維赫堡
+}
+
+FableBiome: {
+	TownNPCDialogueName: 古諭遺境
+	DisplayName: 古諭遺境
+}
+
+EngineerShop: {
+	TownNPCDialogueName: 魔法工匠商店
+	DisplayName: 魔法工匠商店
+}
+
+DrakonicManor: {
+	TownNPCDialogueName: 德拉科尼宅邸
+	DisplayName: 德拉科尼宅邸
+}
+
+CindersparkBiome: {
+	TownNPCDialogueName: 燼火之地
+	DisplayName: 燼火之地
+}
+
+CathedralBiome: {
+	TownNPCDialogueName: 穹月儀殿
+	DisplayName: 穹月儀殿
+}
+
+CatacombWater: {
+	TownNPCDialogueName: 浸水墓穴
+	DisplayName: 浸水墓穴
+}
+
+CatacombTrap: {
+	TownNPCDialogueName: 陷阱墓穴
+	DisplayName: 陷阱墓穴
+}
+
+CatacombFlames: {
+	TownNPCDialogueName: 烈火墓穴
+	DisplayName: 烈火墓穴
+}
+
+AurelusBiome: {
+	TownNPCDialogueName: 匿影之地
+	DisplayName: 匿影之地
+}
+
+AlcadziaBiome: {
+	TownNPCDialogueName: 阿爾卡迪亞
+	DisplayName: 阿爾卡迪亞
+}
+
+AcidBiome: {
+	TownNPCDialogueName: 酸蝕之地
+	DisplayName: 酸蝕之地
+}
+
+AbyssBiome: {
+	TownNPCDialogueName: 無盡深淵
+	DisplayName: 無盡深淵
+}
+
+Laboratory: {
+	DisplayName: 實驗室
+	TownNPCDialogueName: 實驗室
+}
+
+IlluriaBiome: {
+	TownNPCDialogueName: 星樹
+	DisplayName: 星樹
+}
+
+IshtarBiome: {
+	TownNPCDialogueName: 狂淵
+	DisplayName: 狂淵
+}
+
+VeilBiome: {
+	TownNPCDialogueName: 天紗環境
+	DisplayName: 天紗環境
+}

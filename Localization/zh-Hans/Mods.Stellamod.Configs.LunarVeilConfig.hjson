@@ -1,0 +1,28 @@
+VanillaTexturesToggle: {
+	Tooltip: ""
+	Label: 使用原版材質
+}
+
+Headers: {
+	ReplaceVanillaTextures: 替換原版材質
+	BiomeParticles: 環境粒子效果
+	ModdedBiomeParticles: 模組環境粒子效果
+	Screenshake: Screenshake // 在這兒寫沒用, 去 zh-Hans.hjson 寫去
+}
+
+DisplayName: 穹月天紗模組配置
+
+VanillaParticlesToggle: {
+	Label: 使用原版粒子
+	Tooltip: ""
+}
+
+ParticlesToggle: {
+	Label: 粒子效果
+	Tooltip: ""
+}
+
+ShakeToggle: {
+	Label: Shake Toggle // 在這兒寫沒用, 去 zh-Hans.hjson 寫去
+	Tooltip: ""
+}

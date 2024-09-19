@@ -1,0 +1,395 @@
+RoyalHorsemage.DisplayName: 皇家騎士
+LonelySorceress.DisplayName: 孤獨女巫
+CarianKnight.DisplayName: 卡裏亞騎士
+AlcaricVoidSmall.DisplayName: 阿卡裏亞虛空凝聚體
+ShadowWraith.DisplayName: 暗影幽靈
+ShadeSlime.DisplayName: 暗影史萊姆
+RoyalSlime.DisplayName: 皇家史萊姆
+IvythornSlime.DisplayName: 刺藤史萊姆
+TribalWorshipper.DisplayName: 部落狂熱者
+TribalPriest.DisplayName: 部落祭司
+TribalPeasant.DisplayName: 部落農民
+TribalGuard.DisplayName: 部落守衛
+TopazBeetle.DisplayName: 黃玉甲蟲
+SapphireBeetle.DisplayName: 藍玉甲蟲
+RubyBeetle.DisplayName: 紅寶石甲蟲
+MossyZombie.DisplayName: 苔蘚僵屍
+MorrowedJellyFish.DisplayName: 幽曦水母
+EmeraldBeetle.DisplayName: 綠寶石甲蟲
+AmethystBeetle.DisplayName: 紫晶甲蟲
+GoliathJellyfish.DisplayName: 巨像水母
+GoliathCryogenicJellyfish.DisplayName: 冰皇水母
+WinterSoul3.DisplayName: 凜冬之魂
+WinterSoul2.DisplayName: 凜冬之魂
+WinterSoul1.DisplayName: 凜冬之魂
+WinterBornSlime.DisplayName: 冬誕史萊姆
+WinterbornBat.DisplayName: 冬誕蝙蝠
+HarvestVirulent.DisplayName: 豐獲瘴煞
+SkyRune.DisplayName: 天空符文
+RedLightBig.DisplayName: 光虹
+PearledGold.DisplayName: 珍珠之金
+OverworldRuneLightBig.DisplayName: 地表符文光線
+OverworldRune.DisplayName: 地表符文
+OceanRuneLightBig.DisplayName: 海洋符文光線
+OceanRune.DisplayName: 海洋符文
+JungleRune.DisplayName: 叢林符文
+HarvestUM.DisplayName: 豐獲UM
+HarvestOverworld.DisplayName: 叢林地表
+HarvestGovheil.DisplayName: 豐獲歌維赫
+GreenLightBig.DisplayName: 光綠
+GoldLightBig.DisplayName: 光金
+DesertRuneLightBig.DisplayName: 沙漠符文光線
+DesertRune.DisplayName: 沙漠符文
+BlueLightBig.DisplayName: 光藍
+HarvestIce.DisplayName: 豐獲之冰
+GovheilProtector.DisplayName: 歌維赫護衛
+GovheilGuardian.DisplayName: 歌維赫衛兵
+Gintzling.DisplayName: 玄鐵小兵
+GintzeWindRider.DisplayName: 玄鐵風騎
+GintzeWarrior.DisplayName: 玄鐵戰士
+GintzeSpearman.DisplayName: 玄鐵矛兵
+GintzeSolider.DisplayName: 玄鐵重兵
+GintzeCaptain.DisplayName: 玄鐵指揮官
+GintziaHand.DisplayName: 玄鐵之手
+StarSlime.DisplayName: 星綻史萊姆
+DiceinNPC.DisplayName: 賭博骰子
+Shrewmet.DisplayName: 焦燼幼蟲
+Shrewder.DisplayName: 焦燼爬蟲
+SnowWalkerNPC.DisplayName: 雪地漫步者
+SandWalkerNPC.DisplayName: 沙地漫步者
+THEGREATDEVOURER.DisplayName: 偉 大 吞 噬 者
+FlamingWitch.DisplayName: 火焰巫女
+CinderCrawlerTail.DisplayName: 灰燼爬行者尾部
+CinderCrawlerHead.DisplayName: 灰燼爬行者頭部
+CinderCrawlerBody.DisplayName: 灰燼爬行者身軀
+CharredSoul.DisplayName: 焦黑之魂
+CharredSkulls.DisplayName: 焦黑頭骨
+BottomFeeder.DisplayName: 地底覓食者
+WaterRifle.DisplayName: 噴水槍
+WaterLauncher.DisplayName: 水彈發射器
+WaterGun.DisplayName: 水槍
+WaterCogwork.DisplayName: 浸水齒輪
+SpikeBallGun.DisplayName: 刺球發射器
+NeedleGun.DisplayName: 針槍
+IronNailGun.DisplayName: 鐵釘槍
+PandorasSeeker.DisplayName: 潘多拉探尋者
+PandorasKnife.DisplayName: 潘多拉之刃
+PandorasGuard.DisplayName: 潘多拉守衛
+BlazingSerpentTail.DisplayName: 烈焰蛇尾
+BlazingSerpentBody.DisplayName: 烈焰蛇身
+BlazeBeamWarn.DisplayName: 烈焰光束警告
+CatacombsBossSpawn.DisplayName: 墓穴BOSS召喚
+Viola.DisplayName: 皎月魔琴
+Sword3.DisplayName: 劍3
+Sword2.DisplayName: 劍2
+Sword1.DisplayName: 劍1
+StarteV.DisplayName: 薇莉亞
+GhostCharger.DisplayName: 幽靈奇兵
+CloneV.DisplayName: 薇莉亞分身
+Zapwarn.DisplayName: 打擊警告
+Veiizal.DisplayName: 維依佐
+VoidWall.DisplayName: 虛空之墻
+UnderworldRift.DisplayName: 地獄裂隙
+VoidWormTail.DisplayName: 虛空蟲尾
+VoidWormHead.DisplayName: 虛空蟲頭
+VoidWormBody.DisplayName: 虛空蟲體
+SunStalkerRayLightBig.DisplayName: 獵日遊隼大射線
+SunStalkerRayLight.DisplayName: 獵日遊隼射線
+SunStalkerPreSpawn.DisplayName: 獵日遊隼預生成
+SunStalkerLighting.DisplayName: 獵日遊隼之光
+SunStalkerDeath.DisplayName: 獵日遊隼
+SunStalker.DisplayName: 獵日遊隼
+Sun.DisplayName: 太陽
+StoneDeath.DisplayName: 心石聖衛
+Flowerball.DisplayName: 閃光精靈
+STARBOMBERGUN.DisplayName: 星 爆 轟 炸 槍
+STARLINGBIG.DisplayName: 大 型 星 際 混 沌
+STARLING.DisplayName: 星 際 混 沌
+STARBOMBERLASERWARNBIG.DisplayName: 星爆者 大激光警告
+STARBOMBERLASERWARN.DisplayName: 星爆者 激光警告
+STARBOMBER.DisplayName: 星 爆 者
+Voidling.DisplayName: 虛無靈體
+SingularityOrb.DisplayName: 奇點球體
+SingularitySparkBig.DisplayName: 奇點火花
+SingularitySpark.DisplayName: 奇點火花
+SingularityLazer2.DisplayName: 奇點消亡
+SingularityLazer.DisplayName: 奇點消亡
+LazerOrb.DisplayName: 激光球
+Jackoslime.DisplayName: 燈籠傑克史萊姆
+JackDeath.DisplayName: 燈籠傑克
+Jack.DisplayName: 燈籠傑克
+IrradiatedNestDeath.DisplayName: 輻射巢穴
+IrradiatedNest.DisplayName: 輻射巢穴
+IrradiatedCreeper.DisplayName: 輻射爬行者
+IRNDeathBomb.DisplayName: 輻射巢穴死亡炸彈
+IrradieagleSurvent.DisplayName: 輻射偵察機
+Irradieagle.DisplayName: 輻射護巢鷹
+Train2.DisplayName: 火車2
+Train1.DisplayName: 火車1
+Rek.DisplayName: 浩劫
+Gothiviabb.DisplayName: 歌瑟梵對話框
+Gothiviab.DisplayName: 伊瑞蒂安
+FenixWarn.DisplayName: 緋琦警告
+FenixSnipe.DisplayName: 緋琦射擊
+FenixSlash.DisplayName: 緋琦斬擊
+Fenix.DisplayName: 緋琦
+ExpoiyosOrb.DisplayName: 爆破之球
+AlcSpark.DisplayName: 火花
+DrownOut.DisplayName: 淹沒
+ALCADSWIRL.DisplayName: 阿 爾 卡 迪 亞 漩 渦
+ALCADHOLE.DisplayName: 阿 爾 卡 迪 亞 黑 洞
+DreadMiresHeart.DisplayName: 絳淵惡巫之心
+DreadSurvent.DisplayName: 恐懼仆從
+DreadMireZapwarnBig.DisplayName: 絳淵惡巫技能警告
+DreadMireZapwarn.DisplayName: 絳淵惡巫技能
+DreadMirePentagramSmall.DisplayName: 絳淵惡巫小魔星
+DreadMirePentagramMid.DisplayName: 絳淵惡巫魔星
+DreadMirePentagram.DisplayName: 絳淵惡巫大魔星
+DreadMire.DisplayName: 絳淵惡巫
+DreadFireCircle.DisplayName: 恐懼火圈
+DreadFireBomb.DisplayName: 恐懼火焰爆破
+BloodCystDead.DisplayName: 血肉囊
+BloodCyst.DisplayName: 血肉囊
+SolarSingularity.DisplayName: 太陽奇點
+SolarPortal.DisplayName: 太陽傳送門
+DRay.DisplayName: D射線
+LanternOfHope.DisplayName: 希望之燈
+Daedus.DisplayName: 代達斯
+CaevaSnipe.DisplayName: 凱爾狙擊
+CaevaDeathRowR.DisplayName: 凱爾R死亡
+CaevaDeathRow.DisplayName: 凱爾死亡
+Caeva.DisplayName: 凱爾
+ToxicHornet.DisplayName: 劇毒黃蜂
+ToxicBoulder.DisplayName: 蘊毒巨石
+AcidSpirit.DisplayName: 酸蝕精靈
+AcidSlime.DisplayName: 酸蝕史萊姆
+AcidProbe.DisplayName: 酸蝕探測器
+AbyssalSlime.DisplayName: 深淵史萊姆
+AbyssalSkull.DisplayName: 深淵骷髏
+AbyssalSeeker.DisplayName: 深淵探尋者
+AbysmLunatic.DisplayName: 深淵狂熱者
+TericGramNPC2.DisplayName: 特裏克吉姆
+TericGramNPC.DisplayName: 特裏克吉姆
+Sparn.DisplayName: 斯帕恩
+WaterJellyfish.DisplayName: 水母
+PandorasFlamebox.DisplayName: 潘多拉火焰盒
+Cogwork.DisplayName: 廢舊齒輪
+BlazingSerpentHead.DisplayName: 烈焰長蛇
+StarrVeriplant.DisplayName: 石心聖衛
+Sylia.DisplayName: 賽莉亞
+VerliaB.DisplayName: 皎月，薇莉婭
+SingularityFragment.DisplayName: 破碎奇點
+CommanderGintzia.DisplayName: 金戈亞指揮官
+DaedusR.DisplayName: 世遺者，代達斯
+
+Aimacra: {
+	DisplayName: 安魅凱拉
+
+	TownNPCMood: {
+		Content: 我很滿足
+		NoHome: 我討厭無家可歸
+		FarFromHome: 我離家太遠了
+		LoveSpace: 我喜歡大一些的房間
+		DislikeCrowded: 我不喜歡較小的房間
+		HateCrowded: 我討厭狹小的房間
+		LoveBiome: 我非常喜歡{BiomeName}.
+		LikeBiome: 我喜歡{BiomeName}.
+		DislikeBiome: 我討厭{BiomeName}.
+		LoveNPC: 我非常喜歡{NPCName}.
+		LikeNPC: 我喜歡{NPCName}.
+		DislikeNPC: 我不喜歡{NPCName}.
+		HateNPC: 我討厭{NPCName}.
+		LikeNPC_Princess: 我喜歡{NPCName}.
+		Princess_LovesNPC: 我喜歡{NPCName}.
+	}
+
+	Census.SpawnCondition: 擊敗石心聖衛
+}
+
+Bordoc.DisplayName: 波爾杜克
+
+BoundGia: {
+	DisplayName: 受縛的吉婭
+
+	TownNPCMood: {
+		Content: 我很滿足
+		NoHome: 我討厭無家可歸
+		FarFromHome: 我離家太遠了
+		LoveSpace: 我喜歡大一些的房間
+		DislikeCrowded: 我不喜歡較小的房間
+		HateCrowded: 我討厭狹小的房間
+		LikeNPC_Princess: 我喜歡{NPCName}.
+		Princess_LovesNPC: 我超級喜歡{NPCName}.
+	}
+}
+
+CellConverter.DisplayName: 分子轉換器
+Delgrim.DisplayName: 戴爾格林
+
+Gambit: {
+	DisplayName: 賭徒
+
+	TownNPCMood: {
+		Content: "{$Mods.Stellamod.TownNPCMood.Gambit.Content}"
+		NoHome: 我無家可歸了
+		FarFromHome: 我離家太遠了
+		LoveSpace: 我真的喜歡這個地方
+		DislikeCrowded: 我不喜歡人太多，給我換個地方吧
+		HateCrowded: 這裏人太多了，我希望可以給我一個和你獨處的空間
+		LoveBiome: 哦，這真棒
+		LikeBiome: 太酷了
+		DislikeBiome: 我不喜歡這個群落
+		LoveNPC: 我超級喜歡你
+		LikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.LikeNPC}"
+		DislikeNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.DislikeNPC}"
+		HateNPC: "{$Mods.Stellamod.TownNPCMood.Gambit.HateNPC}"
+		LikeNPC_Princess: 我喜歡{NPCName}.
+		Princess_LovesNPC: 我喜歡{NPCName}.
+	}
+
+	Census.SpawnCondition: 背包中存在賭博骰子
+}
+
+Gia: {
+	DisplayName: 吉婭
+
+	TownNPCMood: {
+		Content: 我很滿足
+		NoHome: 我討厭無家可歸
+		FarFromHome: 我離家太遠了
+		LoveSpace: 我喜歡大一些的房間
+		DislikeCrowded: 我不喜歡較小的房間
+		HateCrowded: IhatehowcrowdedIam.我討厭狹小的房間
+		LoveBiome: 我非常喜歡{BiomeName}.
+		LikeBiome: 我喜歡{BiomeName}.
+		DislikeBiome: 我討厭{BiomeName}.
+		LoveNPC: 我超級喜歡{NPCName}.
+		LikeNPC: 我喜歡{NPCName}.
+		DislikeNPC: 我不喜歡{NPCName}.
+		HateNPC: 我討厭{NPCName}.
+		LikeNPC_Princess: 我喜歡{NPCName}.
+		Princess_LovesNPC: 我喜歡{NPCName}.
+	}
+}
+
+Ginztel: {
+	DisplayName: 玄鐵軍官
+
+	TownNPCMood: {
+		Content: 我很滿足
+		NoHome: 我討厭無家可歸
+		FarFromHome: 我離家太遠了
+		LoveSpace: 我喜歡大一些的房間
+		DislikeCrowded: 我不喜歡較小的房間
+		HateCrowded: 我討厭狹小的房間
+		LoveBiome: 我非常喜歡{BiomeName}.
+		LikeBiome: 我喜歡{BiomeName}.
+		DislikeBiome: 我不喜歡{BiomeName}.
+		LoveNPC: 我超級喜歡{NPCName}.
+		LikeNPC: 我喜歡{NPCName}.
+		DislikeNPC: 我不喜歡{NPCName}.
+		HateNPC: 我討厭{NPCName}.
+		LikeNPC_Princess: 我喜歡{NPCName}.
+		Princess_LovesNPC: 我喜歡{NPCName}.
+	}
+
+	Census.SpawnCondition: 擊敗金戈亞指揮官
+}
+
+Merena.DisplayName: 梅瑞娜
+NaturalWitch.DisplayName: 自然女巫
+Zui.DisplayName: 蕊
+AbandonedMinor.DisplayName: 遭棄礦工
+AbandonedMinorSummon.DisplayName: 遭棄礦工生成
+FloweredRedLight.DisplayName: 花開紅光
+FloweredWhiteLight.DisplayName: 花開白光
+RedFlower.DisplayName: 地藏紅花
+WhiteFlower.DisplayName: 地藏白花
+DreadFireBombG.DisplayName: 恐懼火焰炸彈
+HeatBombLighting.DisplayName: 熱能炸彈閃光
+HeatBombRayLight.DisplayName: 熱能炸彈輻射
+Rustwork.DisplayName: 生銹機械
+MechanicalMinorSummon.DisplayName: 機械礦工生成
+MechanicalMinor.DisplayName: 機械礦工
+InfusedSlime.DisplayName: 註能史萊姆
+RustedBomber.DisplayName: 生銹炮彈發射器
+RustedBomberSummon.DisplayName: 生銹炮彈發射器生成
+Steeru.DisplayName: 齒輪構造體
+ZuiTheTraveller.DisplayName: 輝光女神 蕊
+TestLaserNPC.DisplayName: 測試激光NPC
+UnknownSignal.DisplayName: 神秘信號源
+AlcaricVoidBig.DisplayName: 巨型阿卡裏亞虛空凝聚體
+ZuiLASERWARN.DisplayName: 蕊激光警告
+GoldBeamWarn.DisplayName: 金色激光警告
+ZuiDeath.DisplayName: 輝光女神，蕊
+LuminullSpiritCrystal.DisplayName: 黯光靈晶
+IceRune.DisplayName: 冰雪符文
+VerliaSpawn.DisplayName: 薇莉婭生成
+Bossdeath1.DisplayName: Boss死亡1
+DeathVerlia.DisplayName: 薇莉婭
+VerliaDP.DisplayName: 薇莉婭死亡光球
+Niivi.DisplayName: 尼伊維
+IllurianMage.DisplayName: 星樹法師
+IllurianGuard.DisplayName: 星樹守衛
+SyliaDeath.DisplayName: 賽莉亞
+Veldris.DisplayName: 維爾迪斯
+SupernovaZapwarn.DisplayName: 超新星電擊警告
+SupernovaOrb.DisplayName: 超新星球體
+SupernovaFragment.DisplayName: 破碎超新星
+Sirestias.DisplayName: 希絲忒莉亞
+JellyGlow.DisplayName: 發光水母皇後
+BabyJellyGlow.DisplayName: 發光水母
+DreadMonolith.DisplayName: 恐怖巨石
+HavocHead.DisplayName: 浩劫頭部
+HavocSegmentBack.DisplayName: 浩劫後段
+HavocSegmentFront.DisplayName: 浩劫前段
+HavocSegmentMiddle.DisplayName: 浩劫中段
+HavocTail.DisplayName: 浩劫尾部
+IrradiaIdle.DisplayName: 伊瑞蒂安
+Havoc.DisplayName: 浩劫
+Ishtar.DisplayName: 狂淵
+PULSARHOLE.DisplayName: 脈 沖 黑 洞
+BabySwarmer.DisplayName: 蟻獅蜂寶寶
+BabySwarmerSummon.DisplayName: 蟻獅蜂寶寶召喚
+HavocSignal.DisplayName: 浩劫信號
+IrradiaElectricBoxNode.DisplayName: 伊瑞蒂安帶電節點
+IrradiaSpikeBox.DisplayName: 伊瑞蒂安尖刺盒
+Irradia.DisplayName: 伊瑞蒂安
+DreadMireR.DisplayName: 絳淵惡巫
+DreadMirePentagramV2.DisplayName: 絳淵五角星
+StartIrradia.DisplayName: 喚醒伊瑞蒂安
+GraveShard.DisplayName: 墓碑碎片
+IncresianDisc.DisplayName: 英克雷西安圓盤
+Mardenth.DisplayName: 瑪登斯
+Ordin.DisplayName: 奧丁
+DustNadoSpawner.DisplayName: 龍卷風生成
+Stalker.DisplayName: 潛行者
+StalkerSpawner.DisplayName: 潛行者生成
+RekSnake.DisplayName: 不熄熾龍，萊克
+RekFireCrystal.DisplayName: 萊克火晶
+RekFireEye.DisplayName: 火焰之眼
+Sun2.DisplayName: 太陽
+GothiviaIyx.DisplayName: 青黯琉曦，歌瑟梵•伊斯
+Carmody.DisplayName: 陽炎爆
+CarmodyGreen.DisplayName: 碧綠陽炎爆
+SupernovaZapwarnFinal.DisplayName: 超新星電擊警告
+GothiviaIdle.DisplayName: 歌瑟梵
+StartGoth.DisplayName: 喚醒歌瑟梵
+RekSnakeIdle.DisplayName: 萊克
+CentipedeTail.DisplayName: 蜈蚣尾部
+CentipedeHead.DisplayName: 蜈蚣頭部
+CentipedeBody.DisplayName: 蜈蚣身體
+IrravheilSlime.DisplayName: 災疫史萊姆
+IrravheilLandwormTail.DisplayName: 災疫蠕蟲尾
+IrravheilLandwormHead.DisplayName: 災疫蠕蟲頭
+IrravheilLandwormBody.DisplayName: 災疫蠕蟲身體
+IrravheilSprayer.DisplayName: 災疫噴射器
+Tulacrowe.DisplayName: 圖拉克羅
+NiiviCrystalStars.DisplayName: 尼伊維星狀水晶
+NiiviCrystalLightning.DisplayName: 尼伊維閃電水晶
+NiiviCrystalFrost.DisplayName: 尼伊維冰凍水晶
+NiiviRoaming.DisplayName: 尼伊維
+GothiviaDeath.DisplayName: 歌瑟梵
+EreshkigalIdle.DisplayName: 厄莉什基迦勒
+GraveSeeker.DisplayName: 墓地探尋者
+Azurerin.DisplayName: 艾祖瑞霖
